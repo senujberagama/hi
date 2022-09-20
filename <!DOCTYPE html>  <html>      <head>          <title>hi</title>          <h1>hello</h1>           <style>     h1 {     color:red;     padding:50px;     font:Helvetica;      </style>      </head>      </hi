@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+    
+    <title>hi</title>
+    
+    <h1>hello</h1>
+    
+     <style>
+    h1 {
+    color:red;
+    padding:50px;
+    font:Helvetica;
+     </style>
+  
+  </head>
+ 
+  
+</html>
